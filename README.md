@@ -6,3 +6,5 @@ This program takes 4 csv files as input, it organizes them in memory, it analize
 Everything would be much easier if I had use the string class of the STL (Standard Template Library) but this was a restriction of the given instructions.
 
 Inside the csv folder there are some csv files with "faults" in their name. Those files have syntax errors.
+
+It's not a big deal as what this program does, but it was helpful for me to learn how to handle pointers, references and header files.
